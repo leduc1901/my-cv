@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-cv/static/css/main.866a2533.chunk.css",
+    "main.js": "/my-cv/static/js/main.8c330ed6.chunk.js",
+    "main.js.map": "/my-cv/static/js/main.8c330ed6.chunk.js.map",
+    "runtime-main.js": "/my-cv/static/js/runtime-main.602423d2.js",
+    "runtime-main.js.map": "/my-cv/static/js/runtime-main.602423d2.js.map",
+    "static/js/2.88cc7d7e.chunk.js": "/my-cv/static/js/2.88cc7d7e.chunk.js",
+    "static/js/2.88cc7d7e.chunk.js.map": "/my-cv/static/js/2.88cc7d7e.chunk.js.map",
+    "index.html": "/my-cv/index.html",
+    "precache-manifest.14cb9b68dbdc1ed951dfb7d91dfe3c52.js": "/my-cv/precache-manifest.14cb9b68dbdc1ed951dfb7d91dfe3c52.js",
+    "service-worker.js": "/my-cv/service-worker.js",
+    "static/css/main.866a2533.chunk.css.map": "/my-cv/static/css/main.866a2533.chunk.css.map",
+    "static/js/2.88cc7d7e.chunk.js.LICENSE.txt": "/my-cv/static/js/2.88cc7d7e.chunk.js.LICENSE.txt",
+    "static/media/ReactJS.jpg": "/my-cv/static/media/ReactJS.135dc990.jpg",
+    "static/media/iconfinder_malecostume_403022.png": "/my-cv/static/media/iconfinder_malecostume_403022.af254904.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.602423d2.js",
+    "static/js/2.88cc7d7e.chunk.js",
+    "static/css/main.866a2533.chunk.css",
+    "static/js/main.8c330ed6.chunk.js"
+  ]
+}
