@@ -55,8 +55,9 @@ html,body{
 }
 .my-role{
   color: white;
-  font-size: 70px;
-  font-weight: 800;
+  padding-top: 20px;
+  font-size: 40px;
+  font-weight: 200;
   text-align: center;
 }
 .spacing{
@@ -72,13 +73,19 @@ html,body{
   text-align: center;
 }
 .links{
-  width: 40%;
+  width: 50%;
   display: flex;
   justify-content: space-between;
   color: white;
   font-size: 80px;
+  line-height: 80px;
   padding-top: 50px;
   margin: 0 auto;
+}
+.links a{
+  font-style: none;
+  text-decoration: none;
+  color: white;
 }
 .about-me{
   display: flex;
@@ -107,8 +114,8 @@ html,body{
   width: 70%;
   margin-right: 30px;
   text-align: center;
-  font-size: 40px;
-  font-weight: 500;
+  font-size: 30px;
+  font-weight: 100;
   color: white;
 }
 .my-name{

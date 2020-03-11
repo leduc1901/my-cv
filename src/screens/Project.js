@@ -73,8 +73,43 @@ class Project extends Component {
                             <a href="https://github.com/leduc1901/toDoList-Remastered">
                                 GitHub
                             </a>
-                            <a href="">
+                            <a href="https://todo-list-remastered.herokuapp.com/">
                                 Live Demo
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div className="project">
+                    <img  src={ReactLogo}/>
+                    <div className="project-info">
+                        <div className="project-name">
+                            React Meme Generator
+                        </div>
+                        <div className="project-description">
+                            App Meme Generator bằng ReactJS , Ant-Design và Redux 
+                        </div>
+                        <div className="project-link">
+                            <a href="https://github.com/leduc1901/meme-generator">
+                                GitHub
+                            </a>
+                            <a href="https://meme-generatorr.herokuapp.com/meme-generator/">
+                                Live Demo
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div className="project">
+                    <img  src={ReactLogo}/>
+                    <div className="project-info">
+                        <div className="project-name">
+                            React Portfolio đơn giản
+                        </div>
+                        <div className="project-description">
+                            Portfolio đơn giản bằng ReactJS , Font-Awesome
+                        </div>
+                        <div className="project-link">
+                            <a href="https://github.com/leduc1901/my-cv">
+                                GitHub
                             </a>
                         </div>
                     </div>

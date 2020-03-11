@@ -16,7 +16,7 @@ class Introduction extends Component {
                     .................................................
                 </div>
                 <div className="my-skill">
-                    HTML/CSS | Bootstrap | JavaScript | jQuery | ReactJS | NodeJS | MongoDB
+                    HTML/CSS | Bootstrap | JavaScript | jQuery | ReactJS 
                 </div>
                 <Link/>
             </div>

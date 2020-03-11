@@ -9,10 +9,10 @@ class Link extends Component {
     render() {
         return (
             <div className="links">
-                <i class="fab fa-facebook-square"></i>
-                <i class="fab fa-github-square"></i>
-                <i class="fab fa-google-plus-square"></i>
-                <i class="fab fa-youtube-square"></i>
+                <a href="https://www.facebook.com/duc.melody.19"><i class="fab fa-facebook-square"></i></a>
+                <a href=""><i class="fab fa-github-square"></i></a>
+                <a href=""><i class="fab fa-google-plus-square"></i></a>
+                <a href=""><i class="fab fa-youtube-square"></i></a>
             </div>
         )
     }
